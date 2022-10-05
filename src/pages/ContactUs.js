@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Blogs = () => {
+const Contact = () => {
 return (
 	<div
 	style={{
@@ -15,4 +15,4 @@ return (
 );
 };
 
-export default Blogs;
+export default Contact;

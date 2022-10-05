@@ -20,7 +20,7 @@ return (
 		<NavLink to='/about' activeStyle>
 			About
 		</NavLink>
-		<NavLink to='/events' activeStyle>
+		<NavLink to='/Products' activeStyle>
 			Products
 		</NavLink>
 		<NavLink to='/blogs' activeStyle>
