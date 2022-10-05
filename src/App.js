@@ -8,6 +8,8 @@ import SignUp from './pages/signup';
 import Products from './pages/Products';
 import Contact from './pages/ContactUs';
 
+/* This is code added by Ghani */
+
 function App() {
 return (
 	<Router>
