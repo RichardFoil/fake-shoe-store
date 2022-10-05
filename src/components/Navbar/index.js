@@ -23,7 +23,7 @@ return (
 		<NavLink to='/Products' activeStyle>
 			Products
 		</NavLink>
-		<NavLink to='/blogs' activeStyle>
+		<NavLink to='/ContactUs' activeStyle>
 			Contact Us
 		</NavLink>
 		<NavLink to='/sign-up' activeStyle>
